@@ -8,7 +8,7 @@
       <summary lang="es">Addon Chopo para Kodi</summary>
       <description lang="es">Verificador de enlaces de video para Files.fm y Seeks.cloud</description>
       <platform>all</platform>
-      <url>plugin.video.chopo/</url>
+      <url>https://github.com/fmaddons/fmaddons.github.io/raw/main/plugin.video.chopo-1.0.0.zip</url>
     </extension>
   </addon>
 </addons>
